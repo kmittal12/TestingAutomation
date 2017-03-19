@@ -9,6 +9,7 @@ public class NewTest {
 	@Test
 	public void testfirstfunction()
 	{
+//another comment
 		System.out.println("hello");
 	}
 
