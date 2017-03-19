@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My test Suite" duration-ms="66" started-at="2015-10-18T06:26:19Z" finished-at="2015-10-18T06:26:19Z">
+    <groups>
+    </groups>
+    <test name="My app test" duration-ms="28" started-at="2015-10-18T06:26:19Z" finished-at="2015-10-18T06:26:19Z">
+      <class name="tests.NewTest">
+        <test-method status="PASS" signature="testfirstfunction()[pri:0, instance:tests.NewTest@7cf10a6f]" name="testfirstfunction" duration-ms="10" started-at="2015-10-18T11:56:19Z" finished-at="2015-10-18T11:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfirstfunction -->
+      </class> <!-- tests.NewTest -->
+    </test> <!-- My app test -->
+    <test name="My second test" duration-ms="1" started-at="2015-10-18T06:26:19Z" finished-at="2015-10-18T06:26:19Z">
+      <class name="tests.SecondTest">
+        <test-method status="PASS" signature="testSecond()[pri:0, instance:tests.SecondTest@7f63425a]" name="testSecond" duration-ms="0" started-at="2015-10-18T11:56:19Z" finished-at="2015-10-18T11:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSecond -->
+      </class> <!-- tests.SecondTest -->
+    </test> <!-- My second test -->
+  </suite> <!-- My test Suite -->
+</testng-results>
