@@ -8,6 +8,7 @@ public class NewTest {
 	TransformerFactory fact = new net.sf.saxon.TransformerFactoryImpl();
 	@Test
 //AAA
+//comments
 	public void testfirstfunction()
 	{
 //another comment
