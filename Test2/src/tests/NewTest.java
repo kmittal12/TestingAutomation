@@ -10,6 +10,7 @@ public class NewTest {
 //comments
 	public void testfirstfunction()
 	{
+//another comment
 		System.out.println("hello");
 	}
 
